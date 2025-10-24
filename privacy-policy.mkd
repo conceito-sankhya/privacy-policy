@@ -12,6 +12,16 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to Personal features. The information that we request will be retained by us and used as described in this privacy policy.
 
+**Permissions**
+
+The app requires the following permissions to function properly:
+
+- **Notifications**: We request permission to send you notifications to keep you informed about important updates and information related to our Service.
+- **Background Data Synchronization**: The app uses foreground services to synchronize data in the background, ensuring your information is up-to-date even when you're not actively using the app.
+- **Battery Optimization**: We may request permission to run in the background without battery restrictions to provide uninterrupted service. This is optional and requires your explicit approval.
+
+These permissions are used solely to improve your experience with our Service and are not used to collect any additional personal information beyond what is described in this policy.
+
 **Log Data**
 
 We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
@@ -49,7 +59,7 @@ We do not knowingly collect personally identifiable information from children. W
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2023-02-25
+This policy is effective as of 2025-10-24
 
 **Contact Us**
 
